@@ -6,8 +6,15 @@
     <description>Recent content in Blogs on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Sep 2024 15:46:49 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 16:02:57 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>日常</title>
+      <link>http://localhost:1313/blog/posts/0827/</link>
+      <pubDate>Sat, 14 Sep 2024 16:02:57 +0800</pubDate>
+      <guid>http://localhost:1313/blog/posts/0827/</guid>
+      <description>&lt;h2 id=&#34;emacs-dev-git规范&#34;&gt;&lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; emacs dev git规范&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.emacswiki.org/emacs/GitForEmacsDevs#h5o&#34;&gt;https://www.emacswiki.org/emacs/GitForEmacsDevs#h5o&lt;/a&gt;-&lt;/p&gt;&#xA;&lt;h3 id=&#34;git-cherry-pick-xe-commit&#34;&gt;&lt;!-- raw HTML omitted --&gt;1.1&lt;!-- raw HTML omitted --&gt; git cherry-pick -xe COMMIT&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;ldquo;-x&amp;quot;表示保留原作者提交信息&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;-e&amp;quot;表示编辑提交信息&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;提倡-git-pull-rebase&#34;&gt;&lt;!-- raw HTML omitted --&gt;TODO&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;1.2&lt;!-- raw HTML omitted --&gt; 提倡 git pull &amp;ndash;rebase&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.cnblogs.com/wangiqngpei557/p/6056624.html&#34;&gt;https://www.cnblogs.com/wangiqngpei557/p/6056624.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;ldquo;&amp;ndash;rebase&amp;quot;会去掉merge pr的commit&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title></title>
       <link>http://localhost:1313/blog/posts/0903/</link>
