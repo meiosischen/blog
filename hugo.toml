@@ -1,3 +1,4 @@
 baseURL = 'https://meiosischen.github.io/blog/'
 languageCode = 'zh-cn'
 title = 'My blog'
+theme = 'ananke'
